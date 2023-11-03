@@ -1,0 +1,38 @@
+header {
+  background-color: #333; /* Dark background color */
+  color: #fff; /* White text color */
+  text-align: center; /* Center align text */
+  padding: 10px; /* Add some padding for spacing */
+}
+nav {
+  background-color: #444; /* Darker background color */
+}
+
+nav ul {
+  list-style: none; /* Remove list bullet points */
+  padding: 0;
+}
+
+nav li {
+  display: inline; /* Display list items inline */
+  margin-right: 20px; /* Add spacing between list items */
+}
+
+nav a {
+  text-decoration: none; /* Remove underline from links */
+  color: #fff; /* White text color for links */
+}
+section {
+  background-color: #f0f0f0; /* Light gray background color */
+  padding: 20px; /* Add padding for spacing */
+}
+
+section h2 {
+  color: #333; /* Dark text color for section headers */
+}
+footer {
+  background-color: #333; /* Dark background color */
+  color: #fff; /* White text color */
+  text-align: center; /* Center align text */
+  padding: 10px; /* Add padding for spacing */
+}
